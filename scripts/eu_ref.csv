@@ -1,0 +1,651 @@
+Constituency ,Member of Parliament ,MP position ,MP's majority ,Region ,Remain % ,Leave %
+Streatham ,Chuka Umunna ,Remain ,27.90%,Greater London ,79.50%,20.50%
+Bristol West ,Thangam Debbonaire ,Remain ,8.40%,South West England ,79.30%,20.70%
+Hackney North and Stoke Newington ,Diane Abbott ,Remain ,48.10%,Greater London ,79.10%,20.90%
+Glasgow North ,Patrick Grady ,Remain ,25.20%,Scotland ,78.40%,21.60%
+Islington North ,Jeremy Corbyn ,Remain ,43.00%,Greater London ,78.40%,21.60%
+Foyle ,Mark Durkan ,Remain ,16.30%,Northern Ireland ,78.30%,21.70%
+Edinburgh North and Leith ,Deidre Brock ,Remain ,9.60%,Scotland ,78.20%,21.80%
+Dulwich and West Norwood ,Helen Hayes ,Remain ,31.40%,Greater London ,78.00%,22.00%
+Hackney South and Shoreditch ,Meg Hillier ,Remain ,50.90%,Greater London ,77.90%,22.10%
+Edinburgh South ,Ian Murray ,Remain ,5.40%,Scotland ,77.80%,22.20%
+Vauxhall ,Kate Hoey ,Leave ,26.50%,Greater London ,77.60%,22.40%
+Battersea ,Jane Ellison ,Remain ,15.60%,Greater London ,77.00%,23.00%
+Hampstead and Kilburn ,Tulip Siddiq ,Remain ,2.10%,Greater London ,76.60%,23.40%
+Tottenham ,David Lammy ,Remain ,55.40%,Greater London ,76.20%,23.80%
+Lewisham Deptford ,Vicky Foxcroft ,Remain ,45.40%,Greater London ,75.40%,24.60%
+Hornsey and Wood Green ,Catherine West ,Remain ,19.10%,Greater London ,75.00%,25.00%
+Tooting ,Rosena Allin-Khan ,Remain ,19.90%,Greater London ,74.70%,25.30%
+East Renfrewshire ,Kirsten Oswald ,Remain ,6.60%,Scotland ,74.30%,25.70%
+Belfast West ,Paul Maskey ,Remain ,35.00%,Northern Ireland ,74.10%,25.90%
+Cambridge ,Daniel Zeichner ,Remain ,1.20%,East of England ,73.80%,26.20%
+Manchester Withington ,Jeff Smith ,Remain ,29.80%,North West England ,73.70%,26.30%
+Brighton Pavilion ,Caroline Lucas ,Remain ,14.60%,South East England ,73.40%,26.60%
+East Dunbartonshire ,John Nicolson ,Remain ,4.00%,Scotland ,73.30%,26.70%
+Holborn and St Pancras ,Keir Starmer ,Remain ,31.00%,Greater London ,73.30%,26.70%
+Richmond Park ,Zac Goldsmith ,Leave ,38.90%,Greater London ,73.30%,27.70%
+Liverpool Riverside ,Louise Ellman ,Remain ,55.30%,North West England ,73.20%,26.80%
+Putney ,Justine Greening ,Remain ,23.80%,Greater London ,73.20%,26.80%
+Bermondsey and Old Southwark ,Neil Coyle ,Remain ,8.70%,Greater London ,73.00%,27.00%
+Edinburgh East ,Tommy Sheppard ,Remain ,19.30%,Scotland ,72.40%,27.60%
+Edinburgh South West ,Joanna Cherry ,Remain ,15.80%,Scotland ,72.10%,27.90%
+Glasgow South ,Stewart McDonald ,Remain ,25.20%,Scotland ,71.80%,28.20%
+Islington South and Finsbury ,Emily Thornberry ,Remain ,28.70%,Greater London ,71.70%,28.30%
+Cities of London and Westminster ,Mark Field ,Remain ,26.70%,Greater London ,71.40%,28.60%
+Edinburgh West ,Michelle Thomson ,Remain ,5.90%,Scotland ,71.20%,28.80%
+Glasgow Central ,Alison Thewliss ,Remain ,19.50%,Scotland ,71.20%,28.80%
+Ealing Central and Acton ,Rupa Huq ,Remain ,0.50%,Greater London ,70.90%,29.10%
+Chelsea and Fulham ,Greg Hands ,Remain ,39.80%,Greater London ,70.80%,29.20%
+Wimbledon ,Stephen Hammond ,Remain ,26.10%,Greater London ,70.60%,29.40%
+Camberwell and Peckham ,Harriet Harman ,Remain ,50.10%,Greater London ,69.90%,30.10%
+Cardiff Central ,Jo Stevens ,Remain ,12.90%,Wales ,69.70%,30.30%
+Sheffield Central ,Paul Blomfield ,Remain ,39.20%,Yorkshire and the Humber ,69.60%,30.40%
+Belfast South ,Alasdair McDonnell ,Remain ,2.30%,Northern Ireland ,69.50%,30.50%
+Bethnal Green and Bow ,Rushanara Ali ,Remain ,45.90%,Greater London ,69.10%,30.90%
+Finchley and Golders Green ,Mike Freer ,Remain ,11.20%,Greater London ,69.10%,30.90%
+Hammersmith ,Andy Slaughter ,Remain ,13.60%,Greater London ,69.00%,31.00%
+Kensington ,Victoria Borwick ,Leave ,21.10%,Greater London ,68.70%,31.30%
+Glasgow North West ,Carol Monaghan ,Remain ,23.60%,Scotland ,68.50%,31.50%
+Bath ,Ben Howlett ,Remain ,8.10%,South West England ,68.40%,31.60%
+Aberdeen South ,Callum McCaig ,Remain ,14.90%,Scotland ,67.70%,32.30%
+Stirling ,Steven Paterson ,Remain ,23.40%,Scotland ,67.70%,32.30%
+Oxford East ,Andrew David Smith ,Remain ,30.10%,South East England ,67.70%,32.30%
+South Down ,Margaret Ritchie ,Remain ,13.80%,Northern Ireland ,67.20%,32.80%
+Westminster North ,Karen Patricia Buck ,Remain ,5.40%,Greater London ,67.10%,32.90%
+West Tyrone ,Pat Doherty ,Remain ,26.00%,Northern Ireland ,66.80%,33.20%
+Walthamstow ,Stella Creasy ,Remain ,23.40%,Greater London ,66.50%,33.50%
+Birmingham Hall Green ,Roger Godsiff ,Leave ,42.10%,West Midlands ,66.40%,33.60%
+Twickenham ,Tania Mathias ,Remain ,3.20%,Greater London ,66.40%,33.60%
+Hove ,Peter Kyle ,Remain ,2.40%,South East England ,66.10%,33.90%
+Paisley and Renfrewshire South ,Mhairi Black ,Remain ,12.30%,Scotland ,65.90%,34.10%
+Poplar and Limehouse ,Jim Fitzpatrick ,Remain ,33.10%,Greater London ,65.90%,34.10%
+Lewisham West and Penge ,Jim Dowd ,Remain ,26.40%,Greater London ,65.60%,34.40%
+Arfon ,Hywel Williams ,Remain ,13.70%,Wales ,65.10%,34.90%
+Leeds North West ,Greg Mulholland ,Remain ,6.70%,Yorkshire and the Humber ,64.70%,35.30%
+East Lothian ,George Kerevan ,Remain ,11.50%,Scotland ,64.60%,35.40%
+Lanark and Hamilton East ,Angela Crawley ,Remain ,18.30%,Scotland ,64.60%,35.40%
+Lewisham East ,Heidi Alexander ,Remain ,33.40%,Greater London ,64.60%,35.40%
+Birmingham Ladywood ,Shabana Mahmood ,Remain ,60.90%,West Midlands ,64.40%,35.60%
+Greenwich and Woolwich ,Matthew Pennycook ,Remain ,25.60%,Greater London ,64.30%,35.70%
+Liverpool Wavertree ,Luciana Berger ,Remain ,59.30%,North West England ,64.20%,35.80%
+Sheffield Hallam ,Nick Clegg ,Remain ,4.20%,Yorkshire and the Humber ,64.10%,35.90%
+Paisley and Renfrewshire North ,Gavin Newlands ,Remain ,18.00%,Scotland ,64.00%,36.00%
+Inverclyde ,Ronnie Cowan ,Remain ,24.80%,Scotland ,63.80%,36.20%
+Manchester Central ,Lucy Powell ,Remain ,47.70%,North West England ,63.40%,36.60%
+Motherwell and Wishaw ,Marion Fellows ,Remain ,24.60%,Scotland ,63.10%,36.90%
+Leyton and Wanstead ,John Cryer ,Leave ,27.90%,Greater London ,62.90%,37.10%
+Newry and Armagh ,Mickey Brady ,Remain ,8.40%,Northern Ireland ,62.90%,37.10%
+Leeds North East ,Fabian Hamilton ,Remain ,15.00%,Yorkshire and the Humber ,62.70%,37.30%
+Rutherglen and Hamilton West ,Margaret Ferrier ,Remain ,17.30%,Scotland ,62.70%,37.30%
+St Albans ,Anne Main ,Leave ,23.40%,East of England ,62.60%,37.40%
+"Cumbernauld, Kilsyth and Kirkintilloch East ",Stuart McDonald ,Remain ,29.90%,Scotland ,62.10%,37.90%
+"East Kilbride, Strathaven and Lesmahagow ",Lisa Cameron ,Remain ,27.30%,Scotland ,62.10%,37.90%
+Enfield Southgate ,David Burrowes ,Leave ,10.40%,Greater London ,62.10%,37.90%
+Manchester Gorton ,Gerald Kaufman ,Remain ,57.30%,North West England ,62.10%,37.90%
+Midlothian ,Owen Thompson ,Remain ,20.40%,Scotland ,62.10%,37.90%
+West Dunbartonshire ,Martin Docherty ,Remain ,27.70%,Scotland ,62.00%,38.00%
+North East Fife ,Stephen Gethins ,Remain ,9.60%,Scotland ,61.90%,38.10%
+Oxford West and Abingdon ,Nicola Blackwood ,Remain ,16.70%,South East England ,61.90%,38.10%
+Dundee East ,Stewart Hosie ,Remain ,39.80%,Scotland ,61.80%,38.20%
+Reading East ,Rob Wilson ,Remain ,12.90%,South East England ,61.80%,38.20%
+Altrincham and Sale West ,Graham Brady ,Leave ,26.30%,North West England ,61.60%,38.40%
+South Cambridgeshire ,Heidi Allen ,Remain ,33.50%,East of England ,61.60%,38.40%
+York Central ,Rachael Maskell ,Remain ,14.10%,Yorkshire and the Humber ,61.50%,38.50%
+West Aberdeenshire and Kincardine ,Stuart Donaldson ,Remain ,12.70%,Scotland ,61.40%,38.60%
+"Coatbridge, Chryston and Bellshill ",Phil Boswell ,Remain ,22.70%,Scotland ,61.30%,38.70%
+Cardiff North ,Craig Williams ,Remain ,4.20%,Wales ,60.90%,39.00%
+Ochil and South Perthshire ,Tasmina Ahmed-Sheikh ,Remain ,17.60%,Scotland ,60.80%,39.20%
+Argyll and Bute ,Brendan O'Hara ,Remain ,16.30%,Scotland ,60.60%,39.40%
+Kilmarnock and Loudoun ,Alan Brown ,Remain ,25.30%,Scotland ,60.40%,39.60%
+Mid Ulster ,Francie Molloy ,Remain ,33.30%,Northern Ireland ,60.40%,39.60%
+Hitchin and Harpenden ,Peter Lilley ,Leave ,36.20%,East of England ,60.30%,39.70%
+Winchester ,Steve Brine ,Remain ,30.60%,South East England ,60.30%,39.70%
+Airdrie and Shotts ,Neil Gray ,Remain ,19.80%,Scotland ,60.00%,40.00%
+Dunfermline and West Fife ,Douglas Chapman ,Remain ,18.50%,Scotland ,60.00%,40.00%
+Perth and North Perthshire ,Pete Wishart ,Remain ,17.80%,Scotland ,59.90%,40.10%
+Norwich South ,Clive Lewis ,Remain ,15.80%,East of England ,59.80%,40.20%
+Orkney and Shetland ,Alistair Carmichael ,Remain ,3.60%,Scotland ,59.70%,40.30%
+South West Surrey ,Jeremy Hunt ,Remain ,49.80%,South East England ,59.40%,40.60%
+Glasgow North East ,Anne McLaughlin ,Remain ,24.40%,Scotland ,59.30%,40.70%
+Chipping Barnet ,Theresa Villiers ,Leave ,14.40%,Greater London ,59.10%,40.90%
+Croydon North ,Steve Reed ,Remain ,39.90%,Greater London ,59.10%,40.90%
+Glasgow South West ,Chris Stephens ,Remain ,24.30%,Scotland ,59.10%,40.90%
+Dundee West ,Chris Law ,Remain ,38.20%,Scotland ,58.90%,41.10%
+Guildford ,Anne Milton ,Remain ,41.60%,South East England ,58.90%,41.10%
+Newcastle upon Tyne East ,Nick Brown ,Remain ,31.90%,North East England ,58.90%,41.10%
+Warwick and Leamington ,Chris White ,Remain ,13.10%,West Midlands ,58.90%,41.10%
+"Inverness, Nairn, Badenoch and Strathspey ",Drew Hendry ,Remain ,18.80%,Scotland ,58.70%,41.30%
+Rushcliffe ,Kenneth Clarke ,Remain ,25.10%,East Midlands ,58.70%,41.30%
+Fermanagh and South Tyrone ,Tom Elliott ,Leave ,1.00%,Northern Ireland ,58.60%,41.40%
+Kingston and Surbiton ,James Berry ,Remain ,4.80%,Greater London ,58.50%,41.50%
+Bristol North West ,Charlotte Leslie ,Leave ,9.50%,South West England ,58.40%,41.60%
+Esher and Walton ,Dominic Raab ,Leave ,50.20%,South East England ,58.40%,41.60%
+Kirkcaldy and Cowdenbeath ,Roger Mullin ,Remain ,18.90%,Scotland ,58.40%,41.60%
+Linlithgow and East Falkirk ,Martyn Day ,Remain ,21.00%,Scotland ,58.40%,41.60%
+Ealing Southall ,Virendra Sharma ,Remain ,43.30%,Greater London ,58.20%,41.80%
+Falkirk ,John McNally ,Remain ,32.60%,Scotland ,58.10%,41.90%
+Hendon ,Matthew Offord ,Leave ,7.50%,Greater London ,58.10%,41.90%
+North Ayrshire and Arran ,Patricia Gibson ,Remain ,25.20%,Scotland ,57.80%,42.20%
+Central Ayrshire ,Philippa Whitford ,Remain ,26.80%,Scotland ,57.80%,42.20%
+Wokingham ,John Redwood ,Leave ,43.20%,South East England ,57.60%,42.40%
+Leicester South ,Jon Ashworth ,Remain ,38.90%,East Midlands ,57.50%,42.50%
+Swansea West ,Geraint Davies ,Remain ,20.00%,Wales ,57.40%,42.60%
+Cheadle ,Mary Robinson ,Remain ,12.20%,North West England ,57.30%,42.70%
+Cheltenham ,Alex Chalk ,Remain ,12.10%,South West England ,57.30%,42.70%
+City of Chester ,Chris Matheson ,Remain ,0.20%,North West England ,57.30%,42.70%
+"Ayr, Carrick, and Cumnock ",Corri Wilson ,Remain ,21.60%,Scotland ,57.10%,42.90%
+Brent Central ,Dawn Butler ,Remain ,41.80%,Greater London ,57.10%,42.90%
+Nottingham East ,Chris Leslie ,Remain ,33.80%,East Midlands ,57.10%,42.90%
+Aberdeen North ,Kirsty Blackman ,Remain ,30.50%,Scotland ,57.00%,43.00%
+Brent North ,Barry Gardiner ,Remain ,20.70%,Greater London ,57.00%,43.00%
+Henley ,John Howell ,Remain ,45.90%,South East England ,57.00%,43.00%
+"Berwickshire, Roxburgh & Selkirk ",Calum Kerr ,Remain ,0.60%,Scotland ,56.80%,43.20%
+Brentford and Isleworth ,Ruth Cadbury ,Remain ,0.80%,Greater London ,56.70%,43.30%
+"Ross, Skye and Lochaber ",Ian Blackford ,Remain ,12.30%,Scotland ,56.70%,43.30%
+Brighton Kemptown ,Simon Kirby ,Remain ,1.50%,South East England ,57.60%,43.40%
+Harrow West ,Gareth Thomas ,Remain ,4.70%,Greater London ,56.60%,43.40%
+Glasgow East ,Natalie McGarry ,Remain ,24.50%,Scotland ,56.20%,43.80%
+Ilford South ,Mike Gapes ,Remain ,38.10%,Greater London ,56.20%,43.80%
+Livingston ,Hannah Bardell ,Remain ,29.30%,Scotland ,56.20%,43.80%
+"Dumfriesshire, Clydesdale and Tweeddale ",David Mundell ,Remain ,1.50%,Scotland ,56.10%,43.90%
+Woking ,Jonathan Lord ,Leave ,40.20%,South East England ,56.00%,44.00%
+City of Durham ,Roberta Blackman-Woods ,Remain ,25.00%,North East England ,55.70%,44.30%
+Gordon ,Alex Salmond ,Remain ,15.00%,Scotland ,55.50%,44.50%
+Exeter ,Ben Bradshaw ,Remain ,13.30%,South West England ,55.30%,44.70%
+Mitcham and Morden ,Siobhain McDonagh ,Remain ,37.50%,Greater London ,55.30%,44.70%
+Tunbridge Wells ,Greg Clark ,Remain ,44.50%,South East England ,55.30%,44.70%
+Wirral West ,Margaret Greenwood ,Remain ,1.00%,North West England ,55.30%,44.70%
+Cardiff West ,Kevin Brennan ,Remain ,15.50%,Wales ,55.20%,44.80%
+Na h-Eileanan an Iar ,Angus MacNeil ,Remain ,25.70%,Scotland ,55.20%,44.80%
+Cardiff South and Penarth ,Stephen Doughty ,Remain ,16.00%,Wales ,55.10%,44.90%
+South East Cambridgeshire ,Lucy Frazer ,Remain ,28.30%,East of England ,55.10%,44.90%
+York Outer ,Julian Sturdy ,Leave ,24.40%,Yorkshire and the Humber ,55.10%,44.90%
+Chesham and Amersham ,Cheryl Gillan ,Leave ,45.40%,South East England ,55.00%,45.00%
+Sefton Central ,Bill Esterson ,Remain ,24.20%,North West England ,54.90%,45.10%
+Canterbury ,Julian Brazier ,Leave ,18.30%,South East England ,54.70%,45.30%
+Dumfries and Galloway ,Richard Arkless ,Remain ,11.50%,Scotland ,54.70%,45.30%
+Hexham ,Guy Opperman ,Remain ,27.80%,North East England ,54.70%,45.30%
+Ceredigion ,Mark Williams ,Remain ,8.20%,Wales ,54.60%,45.40%
+Maidenhead ,Theresa May ,Remain ,54.00%,South East England ,54.60%,45.40%
+Edmonton ,Kate Osamor ,Remain ,37.30%,Greater London ,54.50%,45.50%
+Southport ,John Pugh ,Remain ,3.00%,North West England ,54.50%,45.50%
+Croydon South ,Chris Philp ,Remain ,29.70%,Greater London ,54.20%,45.80%
+Pontypridd ,Owen Smith ,Remain ,23.70%,Wales ,54.20%,45.80%
+Romsey and Southampton North ,Caroline Nokes ,Remain ,36.60%,South East England ,54.20%,45.80%
+Tatton ,George Osborne ,Remain ,40.30%,North West England ,54.20%,45.80%
+North East Hampshire ,Ranil Jayawardena ,Leave ,55.40%,South East England ,54.10%,45.90%
+Stroud ,Neil Carmichael ,Remain ,8.00%,South West England ,54.10%,45.90%
+Windsor ,Adam Afriyie ,Leave ,50.00%,South East England ,54.00%,46.00%
+Ealing North ,Stephen Pound ,Remain ,25.40%,Greater London ,53.70%,46.30%
+Witney ,David Cameron ,Remain ,14.80%,South East England ,53.70%,46.30%
+South West Hertfordshire ,David Gauke ,Remain ,40.60%,East of England ,53.70%,46.30%
+Wantage ,Ed Vaizey ,Remain ,37.30%,South East England ,53.60%,46.40%
+Glenrothes ,Peter Grant ,Remain ,29.20%,Scotland ,53.60%,46.40%
+Kenilworth and Southam ,Jeremy Wright ,Remain ,43.00%,West Midlands ,53.50%,46.50%
+Nottingham South ,Lilian Greenwood ,Remain ,16.00%,East Midlands ,53.50%,46.50%
+Mid Sussex ,Nicholas Soames ,Remain ,42.20%,South East England ,53.40%,46.60%
+Wirral South ,Alison McGovern ,Remain ,11.00%,North West England ,53.40%,46.60%
+Bradford West ,Naz Shah ,Remain ,28.30%,Yorkshire and the Humber ,53.30%,46.70%
+Bristol East ,Kerry McCarthy ,Remain ,8.60%,South West England ,53.20%,46.80%
+Stockport ,Ann Coffey ,Remain ,25.40%,North West England ,53.20%,46.80%
+Lewes ,Maria Caulfield ,Leave ,2.10%,South East England ,53.10%,46.90%
+Birmingham Selly Oak ,Steve McCabe ,Remain ,18.60%,West Midlands ,53.10%,46.90%
+East Ham ,Stephen Timms ,Remain ,65.50%,Greater London ,53.10%,46.90%
+Bristol South ,Karin Smyth ,Remain ,14.00%,South West England ,52.90%,47.10%
+Truro and Falmouth ,Sarah Newton ,Remain ,27.20%,South West England ,52.90%,47.10%
+Harrogate and Knaresborough ,Andrew Jones ,Remain ,30.70%,Yorkshire and the Humber ,52.80%,47.20%
+Birmingham Edgbaston ,Gisela Stuart ,Leave ,6.60%,West Midlands ,52.70%,47.30%
+West Ham ,Lyn Brown ,Remain ,53.00%,Greater London ,52.70%,47.30%
+Leeds Central ,Hilary Benn ,Remain ,37.70%,Yorkshire and the Humber ,52.40%,47.40%
+Westmorland and Lonsdale ,Tim Farron ,Remain ,18.30%,North West England ,52.60%,47.40%
+Harrow East ,Bob Blackman ,Leave ,9.70%,Greater London ,52.50%,47.50%
+Newbury ,Richard Benyon ,Remain ,46.00%,South East England ,52.50%,47.50%
+Mole Valley ,Paul Beresford ,Remain ,46.10%,South East England ,52.50%,47.50%
+North Down ,Sylvia Hermon ,Remain ,25.60%,Northern Ireland ,52.40%,47.60%
+Reigate ,Crispin Blunt ,Leave ,43.50%,South East England ,52.30%,47.70%
+The Cotswolds ,Geoffrey Clifton-Brown ,Leave ,37.90%,South West England ,52.30%,47.70%
+Garston and Halewood ,Maria Eagle ,Remain ,55.40%,North West England ,52.20%,47.80%
+Monmouth ,David Davies ,Leave ,23.10%,Wales ,52.20%,47.80%
+Tynemouth ,Alan Campbell ,Remain ,15.40%,North East England ,52.20%,47.80%
+Epsom and Ewell ,Chris Grayling ,Leave ,42.80%,South East England ,52.10%,47.90%
+Filton and Bradley Stoke ,Jack Lopresti ,Leave ,20.00%,South West England ,52.10%,47.90%
+North Somerset ,Liam Fox ,Leave ,39.20%,South West England ,52.10%,47.90%
+East Londonderry ,Gregory Campbell ,Leave ,22.50%,Northern Ireland ,52.00%,48.00%
+Wycombe ,Steve Baker ,Leave ,28.90%,South East England ,52.00%,48.00%
+Angus ,Mike Weir ,Remain ,25.20%,Scotland ,51.90%,48.10%
+Macclesfield ,David Rutley ,Remain ,29.90%,North West England ,51.90%,48.10%
+Dwyfor Meirionnydd ,Liz Saville-Roberts ,Remain ,18.20%,Wales ,51.70%,48.30%
+Newcastle upon Tyne Central ,Chi Onwurah ,Remain ,36.10%,North East England ,51.70%,48.30%
+Pudsey ,Stuart Andrew ,Leave ,8.80%,Yorkshire and the Humber ,51.70%,48.30%
+Beckenham ,Bob Stewart ,Leave ,37.80%,Greater London ,51.60%,48.40%
+Stretford and Urmston ,Kate Green ,Remain ,25.20%,North West England ,51.60%,48.40%
+Buckingham ,John Bercow ,Remain ,42.70%,South East England ,51.40%,48.60%
+Horsham ,Jeremy Quin ,Remain ,43.30%,South East England ,51.40%,48.60%
+East Hampshire ,Damian Hinds ,Remain ,48.70%,South East England ,51.30%,48.70%
+Coventry South ,Jim Cunningham ,Remain ,7.30%,West Midlands ,51.10%,48.90%
+"Ruislip, Northwood and Pinner ",Nick Hurd ,Remain ,39.50%,Greater London ,51.00%,49.00%
+Beaconsfield ,Dominic Grieve ,Remain ,49.50%,South East England ,50.80%,49.20%
+Chingford and Woodford Green ,Iain Duncan Smith ,Leave ,19.10%,Greater London ,50.80%,49.20%
+Enfield North ,Joan Ryan ,Remain ,2.40%,Greater London ,50.80%,49.20%
+Hertford and Stortford ,Mark Prisk ,Remain ,38.20%,East of England ,50.80%,49.20%
+"Caithness, Sutherland and Easter Ross ",Paul Monaghan ,Remain ,11.20%,Scotland ,50.60%,49.40%
+Belfast North ,Nigel Dodds ,Leave ,13.10%,Northern Ireland ,50.40%,49.60%
+Bridgend ,Madeleine Moon ,Remain ,4.90%,Wales ,50.40%,49.60%
+Loughborough ,Nicky Morgan ,Remain ,17.70%,East Midlands ,50.40%,49.60%
+Bromley and Chislehurst ,Bob Neill ,Remain ,30.80%,Greater London ,50.20%,49.80%
+Colne Valley ,Jason McCartney ,Leave ,9.50%,Yorkshire and the Humber ,50.20%,49.80%
+Milton Keynes North ,Mark Lancaster ,Remain ,16.90%,South East England ,50.20%,49.80%
+Runnymede and Weybridge ,Philip Hammond ,Remain ,44.20%,South East England ,50.20%,49.80%
+Wythenshawe and Sale East ,Mike Kane ,Remain ,24.40%,North West England ,50.20%,49.80%
+Moray ,Angus Robertson ,Remain ,18.40%,Scotland ,50.10%,49.90%
+Wallasey ,Angela Eagle ,Remain ,37.70%,North West England ,50.10%,49.90%
+Gower ,Byron Davies ,Remain ,0.10%,Wales ,49.90%,50.10%
+Weaver Vale ,Graham Evans ,Remain ,1.70%,North West England ,49.90%,50.10%
+Liverpool West Derby ,Stephen Twigg ,Remain ,66.70%,North West England ,49.80%,50.20%
+Croydon Central ,Gavin Barwell ,Remain ,0.30%,Greater London ,49.70%,50.30%
+North Wiltshire ,James Gray ,Leave ,41.60%,South West England ,49.70%,50.30%
+Salisbury ,John Glen ,Remain ,40.30%,South West England ,49.70%,50.30%
+East Devon ,Hugo Swire ,Remain ,22.40%,South West England ,49.60%,50.40%
+High Peak ,Andrew Bingham ,Leave ,9.60%,East Midlands ,49.50%,50.50%
+Banbury ,Victoria Prentis ,Remain ,31.70%,South East England ,49.50%,50.50%
+Chelmsford ,Simon Burns ,Remain ,35.90%,East of England ,49.50%,50.50%
+Arundel and South Downs ,Nick Herbert ,Remain ,46.30%,South East England ,49.40%,50.60%
+Chichester ,Andrew Tyrie ,Remain ,42.70%,South East England ,49.40%,50.60%
+Southampton Test ,Alan Whitehead ,Remain ,8.70%,South East England ,49.40%,50.60%
+South Antrim ,Danny Kinahan ,Remain ,2.60%,Northern Ireland ,49.40%,50.60%
+Warrington South ,David Mowat ,Remain ,4.60%,North West England ,49.40%,50.60%
+Hertsmere ,Oliver Dowden ,Remain ,36.90%,East of England ,49.20%,50.80%
+Lancaster and Fleetwood ,Cat Smith ,Remain ,3.00%,North West England ,49.10%,50.90%
+Saffron Walden ,Alan Haselhurst ,Remain ,43.40%,East of England ,49.10%,50.90%
+Somerton and Frome ,David Warburton ,Leave ,33.60%,South West England ,49.10%,50.90%
+West Dorset ,Oliver Letwin ,Remain ,28.60%,South West England ,49.10%,50.90%
+Ynys Môn ,Albert Owen ,Remain ,0.70%,Wales ,49.10%,50.90%
+Colchester ,Will Quince ,Leave ,11.50%,East of England ,49.00%,51.00%
+Huddersfield ,Barry Sheerman ,Remain ,18.10%,Yorkshire and the Humber ,49.00%,51.00%
+Central Devon ,Mel Stride ,Remain ,39.00%,South West England ,48.90%,51.10%
+South Norfolk ,Richard Bacon ,Leave ,35.90%,East of England ,48.90%,51.10%
+Stratford-on-Avon ,Nadhim Zahawi ,Leave ,44.50%,West Midlands ,48.90%,51.10%
+Watford ,Richard Harrington ,Remain ,17.40%,East of England ,48.90%,51.10%
+Birmingham Perry Barr ,Khalid Mahmood ,Remain ,35.90%,West Midlands ,48.80%,51.20%
+Derbyshire Dales ,Patrick McLoughlin ,Remain ,29.70%,East Midlands ,48.80%,51.20%
+Sutton and Cheam ,Paul Scully ,Leave ,7.90%,Greater London ,48.80%,51.20%
+Blackley and Broughton ,Graham Stringer ,Leave ,45.50%,North West England ,48.70%,51.30%
+North East Hertfordshire ,Oliver Heald ,Remain ,36.50%,East of England ,48.70%,51.30%
+Belfast East ,Gavin Robinson ,Leave ,6.50%,Northern Ireland ,48.60%,51.40%
+Devizes ,Claire Perry ,Remain ,42.30%,South West England ,48.60%,51.40%
+Birmingham Hodge Hill ,Liam Byrne ,Remain ,56.90%,West Midlands ,48.50%,51.50%
+Shipley ,Philip Davies ,Leave ,19.00%,Yorkshire and the Humber ,48.50%,51.50%
+South Swindon ,Robert Buckland ,Remain ,11.70%,South West England ,48.50%,51.50%
+Leicester West ,Liz Kendall ,Remain ,20.90%,East Midlands ,48.40%,51.60%
+Birkenhead ,Frank Field ,Leave ,52.80%,North West England ,48.30%,51.70%
+Brecon and Radnorshire ,Christopher Davies ,Leave ,12.70%,Wales ,48.30%,51.70%
+Sutton Coldfield ,Andrew Mitchell ,Remain ,32.30%,West Midlands ,48.30%,51.70%
+Portsmouth South ,Flick Drummond ,Remain ,12.50%,South East England ,48.20%,51.80%
+Eltham ,Clive Efford ,Remain ,6.20%,Greater London ,48.20%,51.80%
+Bedford ,Richard Fuller ,Leave ,2.40%,East of England ,48.10%,51.90%
+Surrey Heath ,Michael Gove ,Leave ,45.60%,South East England ,48.10%,51.90%
+Aylesbury ,David Lidington ,Remain ,31.00%,South East England ,47.90%,52.10%
+North East Somerset ,Jacob Rees-Mogg ,Leave ,24.90%,South West England ,47.90%,52.10%
+Eddisbury ,Antoinette Sandbach ,Remain ,27.40%,North West England ,47.80%,52.20%
+Harborough ,Edward Garnier ,Remain ,37.40%,East Midlands ,47.80%,52.20%
+Hazel Grove ,William Wragg ,Leave ,15.20%,North West England ,47.80%,52.20%
+Mid Bedfordshire ,Nadine Dorries ,Leave ,40.20%,East of England ,47.80%,52.20%
+Chippenham ,Michelle Donelan ,Remain ,18.20%,South West England ,47.70%,52.30%
+Vale of Glamorgan ,Alun Cairns ,Remain ,13.40%,Wales ,47.70%,52.30%
+Broxtowe ,Anna Soubry ,Remain ,8.00%,East Midlands ,47.60%,52.40%
+Knowsley ,George Howarth ,Remain ,68.30%,North West England ,47.60%,52.40%
+Clwyd West ,David Jones ,Leave ,17.70%,Wales ,47.50%,52.50%
+Ilford North ,Wes Streeting ,Remain ,1.20%,Greater London ,47.50%,52.50%
+Mid Derbyshire ,Pauline Latham ,Remain ,26.80%,East Midlands ,47.50%,52.50%
+Tonbridge and Malling ,Tom Tugendhat ,Remain ,44.20%,South East England ,47.50%,52.50%
+Wealden ,Nusrat Ghani ,Leave ,40.30%,South East England ,47.50%,52.50%
+Welwyn Hatfield ,Grant Shapps ,Remain ,24.20%,East of England ,47.50%,52.50%
+West Worcestershire ,Harriett Baldwin ,Remain ,41.70%,West Midlands ,47.50%,52.50%
+Congleton ,Fiona Bruce ,Leave ,32.90%,North West England ,47.40%,52.60%
+Reading West ,Alok Sharma ,Remain ,13.70%,South East England ,47.40%,52.60%
+South Northamptonshire ,Andrea Leadsom ,Leave ,43.40%,East Midlands ,47.40%,52.60%
+Upper Bann ,David Simpson ,Leave ,4.80%,Northern Ireland ,47.40%,52.60%
+Meon Valley ,George Hollingbery ,Remain ,46.20%,South East England ,47.10%,52.90%
+Milton Keynes South ,Iain Stewart ,Leave ,14.70%,South East England ,47.10%,52.90%
+Taunton Deane ,Rebecca Pow ,Remain ,26.80%,South West England ,47.10%,52.90%
+Shrewsbury and Atcham ,Daniel Kawczynski ,Leave ,17.70%,West Midlands ,47.00%,53.00%
+Newport West ,Paul Flynn ,Remain ,8.70%,Wales ,47.00%,53.00%
+Skipton and Ripon ,Julian Smith ,Remain ,38.10%,Yorkshire and the Humber ,47.00%,53.00%
+Lagan Valley ,Jeffrey Donaldson ,Leave ,32.70%,Northern Ireland ,46.90%,53.10%
+Leicester East ,Keith Vaz ,Remain ,38.20%,East Midlands ,46.90%,53.10%
+Bracknell ,Phillip Lee ,Remain ,38.90%,South East England ,46.80%,53.20%
+Calder Valley ,Craig Whittaker ,Remain ,8.30%,Yorkshire and the Humber ,46.80%,53.20%
+Huntingdon ,Jonathan Djanogly ,Remain ,34.70%,East of England ,46.80%,53.20%
+North East Bedfordshire ,Alistair Burt ,Remain ,43.70%,East of England ,46.80%,53.20%
+Aberconwy ,Guto Bebb ,Remain ,13.30%,Wales ,46.70%,53.30%
+Keighley ,Kris Hopkins ,Remain ,6.20%,Yorkshire and the Humber ,46.70%,53.30%
+Solihull ,Julian Knight ,Remain ,23.60%,West Midlands ,46.70%,53.30%
+Thornbury and Yate ,Luke Hall ,Remain ,3.10%,South West England ,46.70%,53.30%
+Wells ,James Heappey ,Remain ,13.30%,South West England ,46.60%,53.40%
+Bournemouth East ,Tobias Ellwood ,Remain ,32.60%,South West England ,46.50%,53.50%
+Basingstoke ,Maria Miller ,Remain ,20.80%,South East England ,46.40%,53.60%
+Bury North ,David Nuttall ,Leave ,0.80%,North West England ,46.40%,53.60%
+East Worthing and Shoreham ,Tim Loughton ,Leave ,30.00%,South East England ,46.40%,53.60%
+Salford and Eccles ,Rebecca Long-Bailey ,Remain ,29.00%,North West England ,46.40%,53.60%
+Blackburn ,Kate Hollern ,Remain ,29.00%,North West England ,46.30%,53.70%
+Bury St Edmunds ,Jo Churchill ,Remain ,35.90%,East of England ,46.30%,53.70%
+Carmarthen East and Dinefwr ,Jonathan Edwards ,Remain ,14.20%,Wales ,46.30%,53.70%
+Derby North ,Amanda Solloway ,Remain ,0.10%,East Midlands ,46.30%,53.70%
+Tewkesbury ,Laurence Robertson ,Leave ,39.70%,South West England ,46.30%,53.70%
+Worcester ,Robin Walker ,Remain ,11.40%,West Midlands ,46.30%,53.70%
+Liverpool Walton ,Steve Rotheram ,Remain ,72.30%,North West England ,46.20%,53.80%
+Sevenoaks ,Michael Fallon ,Remain ,39.00%,South East England ,46.20%,53.80%
+Rutland and Melton ,Alan Duncan ,Remain ,39.80%,East Midlands ,46.10%,53.90%
+Slough ,Fiona Mactaggart ,Remain ,15.20%,South East England ,46.10%,53.90%
+Banff and Buchan ,Eilidh Whiteford ,Remain ,31.40%,Scotland ,46.00%,54.00%
+Broadland ,Keith Simpson ,Remain ,31.70%,East of England ,46.00%,54.00%
+Eastleigh ,Mims Davies ,Leave ,16.50%,South East England ,46.00%,54.00%
+Totnes ,Sarah Wollaston ,Remain ,38.80%,South West England ,46.00%,54.00%
+Wyre and Preston North ,Ben Wallace ,Remain ,28.40%,North West England ,46.00%,54.00%
+East Surrey ,Sam Gyimah ,Remain ,40.40%,South East England ,45.90%,54.10%
+South Suffolk ,James Cartlidge ,Remain ,33.80%,East of England ,45.90%,54.10%
+Neath ,Christina Rees ,Remain ,25.70%,Wales ,45.80%,54.20%
+St Ives ,Derek Thomas ,Leave ,5.10%,South West England ,45.80%,54.20%
+Erith and Thamesmead ,Teresa Pearce ,Remain ,22.40%,Greater London ,45.70%,54.30%
+Central Suffolk and North Ipswich ,Dan Poulter ,Remain ,37.20%,East of England ,45.60%,54.40%
+Plymouth Sutton and Devonport ,Oliver Colvile ,Remain ,1.10%,South West England ,45.60%,54.40%
+Bury South ,Ivan Lewis ,Remain ,10.40%,North West England ,45.50%,54.50%
+North West Hampshire ,Kit Malthouse ,Leave ,43.40%,South East England ,45.50%,54.50%
+Richmond (Yorks) ,Rishi Sunak ,Leave ,36.20%,Yorkshire and the Humber ,45.40%,54.60%
+Wolverhampton South West ,Rob Marris ,Remain ,2.00%,West Midlands ,45.60%,54.60%
+Delyn ,David Hanson ,Remain ,7.80%,Wales ,45.30%,54.70%
+Bootle ,Peter Dowd ,Remain ,63.60%,North West England ,45.20%,54.80%
+Leeds West ,Rachel Reeves ,Remain ,27.90%,Yorkshire and the Humber ,45.10%,54.90%
+North West Durham ,Pat Glass ,Remain ,23.50%,North East England ,45.10%,54.90%
+West Lancashire ,Rosie Cooper ,Remain ,16.80%,North West England ,45.10%,54.90%
+Southend West ,David Amess ,Leave ,31.50%,East of England ,45.00%,55.00%
+Caerphilly ,Wayne David ,Remain ,25.00%,Wales ,44.90%,55.10%
+Hemel Hempstead ,Mike Penning ,Leave ,29.10%,East of England ,44.90%,55.10%
+Bradford East ,Imran Hussain ,Remain ,17.10%,Yorkshire and the Humber ,44.80%,55.20%
+East Antrim ,Sammy Wilson ,Leave ,17.30%,Northern Ireland ,44.80%,55.20%
+South West Devon ,Gary Streeter ,Remain ,39.90%,South West England ,44.80%,55.20%
+Carmarthen West and South Pembrokeshire ,Simon Hart ,Remain ,15.00%,Wales ,44.70%,55.30%
+Penrith and The Border ,Rory Stewart ,Remain ,45.30%,North West England ,44.70%,55.30%
+Fareham ,Suella Fernandes ,Leave ,40.70%,South East England ,44.60%,55.40%
+Bromsgrove ,Sajid Javid ,Remain ,31.60%,West Midlands ,44.60%,55.40%
+Haltemprice and Howden ,David Davis ,Leave ,33.20%,Yorkshire and the Humber ,44.60%,55.40%
+Llanelli ,Nia Griffith ,Remain ,18.40%,Wales ,44.60%,55.40%
+Luton South ,Gavin Shuker ,Remain ,13.50%,East of England ,44.60%,55.40%
+Berwick-upon-Tweed ,Anne-Marie Trevelyan ,Leave ,12.20%,North East England ,44.50%,55.50%
+Bolton West ,Chris Green ,Leave ,1.60%,North West England ,44.50%,55.50%
+Strangford ,Jim Shannon ,Leave ,30.00%,Northern Ireland ,44.50%,55.50%
+Newark ,Robert Jenrick ,Remain ,35.30%,East Midlands ,44.30%,55.70%
+Preseli Pembrokeshire ,Stephen Crabb ,Remain ,12.30%,Wales ,44.30%,55.70%
+New Forest West ,Desmond Swayne ,Leave ,43.50%,South East England ,44.20%,55.80%
+Maidstone and The Weald ,Helen Grant ,Remain ,21.40%,South East England ,44.20%,55.80%
+Suffolk Coastal ,Therese Coffey ,Remain ,33.90%,East of England ,44.20%,55.80%
+Feltham and Heston ,Seema Malhotra ,Remain ,23.20%,Greater London ,44.10%,55.90%
+Montgomeryshire ,Glyn Davies ,Leave ,15.80%,Wales ,44.10%,55.90%
+Vale of Clwyd ,James Davies ,Leave ,0.70%,Wales ,44.10%,55.90%
+Gateshead ,Ian Mearns ,Remain ,39.00%,North East England ,44.00%,56.00%
+Gedling ,Vernon Coaker ,Remain ,6.20%,East Midlands ,43.90%,56.10%
+Newton Abbot ,Anne Marie Morris ,Leave ,23.40%,South West England ,43.90%,56.10%
+St Helens South and Whiston ,Marie Rimmer ,Remain ,43.90%,North West England ,43.90%,56.10%
+Wansbeck ,Ian Lavery ,Remain ,28.20%,North East England ,43.90%,56.10%
+Worthing West ,Peter Bottomley ,Remain ,33.20%,South East England ,43.90%,56.10%
+Hastings and Rye ,Amber Rudd ,Remain ,9.40%,South East England ,43.80%,56.20%
+Blaydon ,David Anderson ,Remain ,31.70%,North East England ,43.70%,56.30%
+Carshalton and Wallington ,Tom Brake ,Remain ,3.20%,Greater London ,43.70%,56.30%
+Elmet and Rothwell ,Alec Shelbrooke ,Remain ,14.70%,Yorkshire and the Humber ,43.70%,56.30%
+Uxbridge and South Ruislip ,Boris Johnson ,Leave ,23.90%,Greater London ,43.70%,56.30%
+North Dorset ,Simon Hoare ,Remain ,39.60%,South West England ,43.60%,56.40%
+Thirsk and Malton ,Kevin Hollinrake ,Remain ,37.20%,Yorkshire and the Humber ,43.60%,56.40%
+Chorley ,Lindsay Hoyle ,Remain ,8.80%,North West England ,43.50%,56.50%
+Fylde ,Mark Menzies ,Remain ,30.40%,North West England ,43.50%,56.50%
+Ipswich ,Ben Gummer ,Remain ,7.70%,East of England ,43.50%,56.50%
+Weston-super-Mare ,John Penrose ,Remain ,29.70%,South West England ,43.40%,56.60%
+Barrow and Furness ,John Woodcock ,Remain ,1.80%,North West England ,43.30%,56.70%
+Kingswood ,Chris Skidmore ,Remain ,18.70%,South West England ,43.20%,56.80%
+Preston ,Mark Hendrick ,Remain ,36.10%,North West England ,43.20%,56.80%
+South Ribble ,Seema Kennedy ,Remain ,11.40%,North West England ,43.20%,56.80%
+Cynon Valley ,Ann Clwyd ,Remain ,30.90%,Wales ,43.10%,56.90%
+North West Cambridgeshire ,Shailesh Vara ,Remain ,32.40%,East of England ,43.10%,56.90%
+Poole ,Robert Syms ,Leave ,33.30%,South West England ,43.10%,56.90%
+North Devon ,Peter Heaton-Jones ,Remain ,13.30%,South West England ,43.00%,57.00%
+Torridge and West Devon ,Geoffrey Cox ,Leave ,32.50%,South West England ,43.00%,57.00%
+Newcastle upon Tyne North ,Catherine McKinnell ,Remain ,22.60%,North East England ,42.90%,57.10%
+Stevenage ,Stephen McPartland ,Leave ,10.40%,East of England ,42.90%,57.10%
+Dewsbury ,Paula Sherriff ,Remain ,2.70%,Yorkshire and the Humber ,42.80%,57.20%
+Stafford ,Jeremy Lefroy ,Remain ,18.80%,West Midlands ,42.80%,57.20%
+Lincoln ,Karl McCartney ,Leave ,3.10%,East Midlands ,42.70%,57.30%
+Norwich North ,Chloe Smith ,Remain ,10.20%,East of England ,42.70%,57.30%
+Wrexham ,Ian Lucas ,Remain ,5.60%,Wales ,42.70%,57.30%
+North Swindon ,Justin Tomlinson ,Leave ,22.60%,South West England ,42.60%,57.40%
+Lichfield ,Michael Fabricant ,Leave ,35.30%,West Midlands ,42.50%,57.50%
+Orpington ,Jo Johnson ,Remain ,40.70%,Greater London ,42.50%,57.50%
+Rochdale ,Simon Danczuk ,Remain ,27.40%,North West England ,42.50%,57.50%
+Bexhill and Battle ,Huw Merriman ,Remain ,36.40%,South East England ,42.40%,57.60%
+Eastbourne ,Caroline Ansell ,Leave ,1.40%,South East England ,42.40%,57.60%
+Sheffield Heeley ,Louise Haigh ,Remain ,30.80%,Yorkshire and the Humber ,42.40%,57.60%
+South West Wiltshire ,Andrew Murrison ,Leave ,35.20%,South West England ,42.40%,57.60%
+Tiverton and Honiton ,Neil Parish ,Remain ,37.50%,South West England ,42.40%,57.60%
+Selby and Ainsty ,Nigel Adams ,Leave ,25.70%,Yorkshire and the Humber ,42.40%,57.60%
+Alyn and Deeside ,Mark Tami ,Remain ,8.10%,Wales ,42.30%,57.70%
+Bolton North East ,David Crausby ,Remain ,10.10%,North West England ,42.30%,57.70%
+Ellesmere Port and Neston ,Justin Madders ,Remain ,13.40%,North West England ,42.30%,57.70%
+Bournemouth West ,Conor Burns ,Leave ,29.70%,South West England ,42.20%,57.80%
+Halton ,Derek Twigg ,Remain ,45.10%,North West England ,42.20%,57.80%
+Stockton South ,James Wharton ,Leave ,9.70%,North East England ,42.20%,57.80%
+Mid Dorset and North Poole ,Michael Tomlinson ,Leave ,22.60%,South West England ,42.10%,57.90%
+Darlington ,Jenny Chapman ,Remain ,7.70%,North East England ,42.00%,58.00%
+Forest of Dean ,Mark Harper ,Remain ,22.20%,South West England ,42.00%,58.00%
+Meriden ,Caroline Spelman ,Remain ,35.70%,West Midlands ,42.00%,58.00%
+Stone ,Bill Cash ,Leave ,34.60%,West Midlands ,42.00%,58.00%
+Aldershot ,Gerald Howarth ,Leave ,32.30%,South East England ,41.80%,58.20%
+Charnwood ,Ed Argar ,Remain ,32.40%,East Midlands ,41.80%,58.20%
+Faversham and Mid Kent ,Helen Whately ,Remain ,36.40%,South East England ,41.80%,58.20%
+Luton North ,Kelvin Hopkins ,Leave ,22.30%,East of England ,41.80%,58.20%
+North Herefordshire ,Bill Wiggin ,Leave ,41.60%,West Midlands ,41.80%,58.20%
+North Norfolk ,Norman Lamb ,Remain ,8.20%,East of England ,41.80%,58.20%
+South Leicestershire ,Alberto Costa ,Remain ,31.20%,East Midlands ,41.80%,58.20%
+St Helens North ,Conor McGinn ,Remain ,37.40%,North West England ,41.80%,58.20%
+The Wrekin ,Mark Pritchard ,Remain ,23.60%,West Midlands ,41.80%,58.20%
+Rugby ,Mark Pawsey ,Remain ,21.10%,West Midlands ,41.70%,58.30%
+South East Cornwall ,Sheryll Murray ,Leave ,33.70%,South West England ,41.70%,58.30%
+Crawley ,Henry Smith ,Leave ,13.40%,South East England ,41.60%,58.40%
+Merthyr Tydfil and Rhymney ,Gerald Jones ,Remain ,35.20%,Wales ,41.60%,58.40%
+Ludlow ,Philip Dunne ,Remain ,39.40%,West Midlands ,41.50%,58.50%
+Rossendale and Darwen ,Jake Berry ,Remain ,11.50%,North West England ,41.50%,58.50%
+Coventry North West ,Geoffrey Robinson ,Remain ,10.00%,West Midlands ,41.40%,58.60%
+Ribble Valley ,Nigel Evans ,Leave ,26.00%,North West England ,41.40%,58.60%
+South West Bedfordshire ,Andrew Selous ,Remain ,34.70%,East of England ,41.40%,58.60%
+Warrington North ,Helen Jones ,Remain ,19.60%,North West England ,41.40%,58.60%
+Beverley and Holderness ,Graham Stuart ,Remain ,23.20%,Yorkshire and the Humber ,41.30%,58.70%
+Daventry ,Chris Heaton-Harris ,Leave ,40.10%,East Midlands ,41.30%,58.70%
+Halifax ,Holly Lynch ,Remain ,1.00%,Yorkshire and the Humber ,41.20%,58.80%
+Islwyn ,Chris Evans ,Remain ,29.40%,Wales ,45.30%,58.80%
+Gloucester ,Richard Graham ,Remain ,13.80%,South West England ,41.10%,58.90%
+Mid Worcestershire ,Nigel Huddleston ,Remain ,39.30%,West Midlands ,41.10%,58.90%
+Morecambe and Lunesdale ,David Morris ,Remain ,10.60%,North West England ,41.10%,58.90%
+Sedgefield ,Phil Wilson ,Remain ,17.70%,North East England ,41.10%,58.90%
+Crewe and Nantwich ,Edward Timpson ,Remain ,7.30%,North West England ,41.00%,59.00%
+Coventry North East ,Colleen Fletcher ,Remain ,29.10%,West Midlands ,40.80%,59.20%
+Yeovil ,Marcus Fysh ,Leave ,9.30%,South West England ,40.80%,59.20%
+Chesterfield ,Toby Perkins ,Remain ,29.80%,East Midlands ,40.70%,59.30%
+North Tyneside ,Mary Glindon ,Remain ,36.70%,North East England ,40.70%,59.30%
+Stalybridge and Hyde ,Jonathan Reynolds ,Leave ,16.30%,North West England ,40.70%,59.30%
+Hayes and Harlington ,John McDonnell ,Remain ,34.80%,Greater London ,40.60%,59.40%
+North Shropshire ,Owen Paterson ,Leave ,31.60%,West Midlands ,40.60%,59.40%
+South Dorset ,Richard Drax ,Leave ,24.70%,South West England ,40.60%,59.40%
+New Forest East ,Julian Lewis ,Leave ,38.80%,South East England ,40.50%,59.50%
+North Cornwall ,Scott Mann ,Leave ,13.70%,South West England ,40.50%,59.50%
+Ashford ,Damian Green ,Remain ,33.60%,South East England ,40.50%,59.50%
+Northampton South ,David Mackintosh ,Remain ,9.80%,East Midlands ,40.40%,59.60%
+Morley and Outwood ,Andrea Jenkyns ,Leave ,0.90%,Yorkshire and the Humber ,40.30%,59.70%
+Ogmore ,Chris Elmore ,Remain ,36.40%,Wales ,40.30%,59.70%
+Blyth Valley ,Ronnie Campbell ,Leave ,24.00%,North East England ,40.20%,59.80%
+Christchurch ,Christopher Chope ,Leave ,36.70%,South West England ,40.20%,59.80%
+Copeland ,Jamie Reed ,Remain ,6.50%,North West England ,40.20%,59.80%
+Worsley and Eccles South ,Barbara Keeley ,Remain ,14.10%,North West England ,40.20%,59.80%
+Aberavon ,Stephen Kinnock ,Remain ,33.10%,Wales ,40.10%,59.90%
+Kingston upon Hull North ,Diana Johnson ,Remain ,36.50%,Yorkshire and the Humber ,40.10%,59.90%
+Oldham East and Saddleworth ,Debbie Abrahams ,Remain ,13.50%,North West England ,40.10%,59.90%
+Southampton Itchen ,Royston Smith ,Leave ,5.20%,South East England ,40.10%,59.90%
+Sunderland Central ,Julie Elliott ,Remain ,26.80%,North East England ,40.00%,60.00%
+Birmingham Yardley ,Jess Phillips ,Remain ,16.00%,West Midlands ,39.90%,60.10%
+Corby ,Tom Pursglove ,Leave ,4.30%,East Midlands ,39.90%,60.10%
+Hereford and South Herefordshire ,Jesse Norman ,Unknown ,35.70%,West Midlands ,39.90%,60.10%
+North Durham ,Kevan Jones ,Remain ,34.00%,North East England ,39.90%,60.10%
+Clwyd South ,Susan Jones ,Remain ,6.90%,Wales ,39.80%,60.20%
+Newport East ,Jessica Morden ,Remain ,13.40%,Wales ,39.80%,60.20%
+Barking ,Margaret Hodge ,Remain ,35.50%,Greater London ,39.70%,60.30%
+Batley and Spen ,Vacant ,n/a ,81.00%,Yorkshire and the Humber ,39.70%,60.30%
+South Derbyshire ,Heather Wheeler ,Leave ,22.60%,East Midlands ,39.70%,60.30%
+Spelthorne ,Kwasi Kwarteng ,Leave ,28.80%,South East England ,39.70%,60.30%
+Workington ,Sue Hayman ,Remain ,12.20%,North West England ,39.70%,60.30%
+Carlisle ,John Stevenson ,Remain ,6.50%,North West England ,39.60%,60.40%
+Rochford and Southend East ,James Duddridge ,Leave ,21.70%,East of England ,39.60%,60.40%
+Mid Norfolk ,George Freeman ,Remain ,33.10%,East of England ,39.50%,60.50%
+Bishop Auckland ,Helen Goodman ,Remain ,8.90%,North East England ,39.40%,60.60%
+Northampton North ,Michael Ellis ,Remain ,8.20%,East Midlands ,39.40%,60.60%
+Bosworth ,David Tredinnick ,Remain ,20.50%,East Midlands ,39.30%,60.70%
+North West Leicestershire ,Andrew Bridgen ,Leave ,22.10%,East Midlands ,39.30%,60.70%
+Brentwood and Ongar ,Eric Pickles ,Remain ,42.00%,East of England ,39.20%,60.80%
+Torfaen ,Nick Thomas-Symonds ,Remain ,21.50%,Wales ,39.20%,60.80%
+Witham ,Priti Patel ,Leave ,41.50%,East of England ,39.20%,60.80%
+Leeds East ,Richard Burgon ,Remain ,32.80%,Yorkshire and the Humber ,39.10%,60.90%
+Denton and Reddish ,Andrew Gwynne ,Remain ,27.20%,North West England ,39.00%,61.00%
+Epping Forest ,Eleanor Laing ,Unknown ,36.40%,East of England ,39.00%,61.00%
+Grantham and Stamford ,Nick Boles ,Remain ,35.30%,East Midlands ,39.00%,61.00%
+Harwich and North Essex ,Bernard Jenkin ,Leave ,31.30%,East of England ,39.00%,61.00%
+Kettering ,Philip Hollobone ,Leave ,26.70%,East Midlands ,39.00%,61.00%
+Rhondda ,Chris Bryant ,Remain ,23.60%,Wales ,38.80%,61.20%
+Maldon ,John Whittingdale ,Leave ,45.90%,East of England ,38.70%,61.30%
+Penistone and Stocksbridge ,Angela Smith ,Remain ,14.30%,Yorkshire and the Humber ,38.70%,61.30%
+Scarborough and Whitby ,Robert Goodwill ,Remain ,13.00%,Yorkshire and the Humber ,38.70%,61.30%
+Braintree ,James Cleverly ,Leave ,35.00%,East of England ,38.60%,61.40%
+Redditch ,Karen Lumley ,Leave ,16.00%,West Midlands ,38.60%,61.40%
+Sheffield Brightside and Hillsborough ,Gill Furniss ,Remain ,42.50%,Yorkshire and the Humber ,38.60%,61.40%
+Sleaford and North Hykeham ,Caroline Johnson ,Leave ,40.00%,East Midlands ,38.50%,61.50%
+Derby South ,Margaret Beckett ,Remain ,21.60%,East Midlands ,38.40%,61.60%
+Jarrow ,Stephen Hepburn ,Remain ,36.00%,North East England ,38.40%,61.60%
+Newcastle-under-Lyme ,Paul Farrelly ,Remain ,1.50%,West Midlands ,38.40%,61.60%
+South Thanet ,Craig Mackinlay ,Leave ,5.70%,South East England ,38.40%,61.60%
+Walsall South ,Valerie Vaz ,Remain ,14.40%,West Midlands ,38.40%,61.60%
+Ashton under Lyne ,Angela Rayner ,Remain ,27.60%,North West England ,38.20%,61.80%
+Birmingham Northfield ,Richard Burden ,Remain ,5.90%,West Midlands ,38.20%,61.80%
+Folkestone and Hythe ,Damian Collins ,Remain ,25.10%,South East England ,38.20%,61.80%
+Warley ,John Spellar ,Remain ,38.90%,West Midlands ,38.20%,61.80%
+Gosport ,Caroline Dinenage ,Remain ,35.90%,South East England ,38.10%,61.90%
+Washington and Sunderland West ,Sharon Hodgson ,Remain ,35.30%,North East England ,38.10%,61.90%
+Isle of Wight ,Andrew Turner ,Leave ,19.50%,South East England ,38.10%,61.90%
+Blaenau Gwent ,Nick Smith ,Remain ,40.10%,Wales ,38.00%,62.00%
+Gainsborough ,Edward Leigh ,Leave ,31.40%,East Midlands ,38.00%,62.00%
+Swansea East ,Carolyn Harris ,Remain ,35.80%,Wales ,38.00%,62.00%
+Bridgwater and West Somerset ,Ian Liddell-Grainger ,Leave ,26.80%,South West England ,37.90%,62.10%
+North East Derbyshire ,Natascha Engel ,Remain ,3.90%,East Midlands ,37.90%,62.10%
+Oldham West and Royton ,Jim McMahon ,Remain ,34.20%,North West England ,37.90%,62.10%
+Peterborough ,Stewart Jackson ,Leave ,4.10%,East of England ,37.90%,62.10%
+South Shields ,Emma Lewell-Buck ,Remain ,29.30%,North East England ,37.90%,62.10%
+North Antrim ,"Ian Paisley, Jr. ",Leave ,27.60%,Northern Ireland ,37.80%,62.20%
+Havant ,Alan Mak ,Remain ,31.10%,South East England ,37.60%,62.40%
+Heywood and Middleton ,Liz McInnes ,Remain ,10.90%,North West England ,37.60%,62.40%
+St Austell and Newquay ,Steve Double ,Leave ,16.20%,South West England ,37.60%,62.40%
+Wakefield ,Mary Creagh ,Remain ,6.10%,Yorkshire and the Humber ,37.40%,62.60%
+Houghton and Sunderland South ,Bridget Phillipson ,Remain ,33.60%,North East England ,37.40%,62.60%
+Torbay ,Kevin Foster ,Remain ,6.80%,South West England ,37.40%,62.60%
+Camborne and Redruth ,George Eustice ,Leave ,15.30%,South West England ,37.30%,62.70%
+Wigan ,Lisa Nandy ,Remain ,31.40%,North West England ,37.30%,62.70%
+Wellingborough ,Peter Bone ,Leave ,32.50%,East Midlands ,37.10%,62.90%
+Birmingham Erdington ,Jack Dromey ,Remain ,14.80%,West Midlands ,37.00%,63.00%
+Dover ,Charlie Elphicke ,Remain ,12.50%,South East England ,36.80%,63.10%
+Old Bexley and Sidcup ,James Brokenshire ,Remain ,33.80%,Greater London ,36.80%,63.10%
+Wyre Forest ,Mark Garnier ,Remain ,26.00%,West Midlands ,36.90%,63.10%
+Pendle ,Andrew Stephenson ,Leave ,12.30%,North West England ,36.80%,63.20%
+West Suffolk ,Matthew Hancock ,Remain ,30.40%,East of England ,36.80%,63.20%
+Waveney ,Peter Aldous ,Remain ,4.60%,East of England ,36.80%,63.20%
+East Yorkshire ,Greg Knight ,Leave ,29.90%,Yorkshire and the Humber ,36.70%,63.30%
+Erewash ,Maggie Throup ,Remain ,7.40%,East Midlands ,36.70%,63.30%
+Bolton South East ,Yasmin Qureshi ,Remain ,26.80%,North West England ,36.60%,63.40%
+Leigh ,Andy Burnham ,Remain ,31.20%,North West England ,36.60%,63.40%
+Bradford South ,Judith Cummins ,Remain ,17.20%,Yorkshire and the Humber ,36.50%,63.50%
+Gillingham and Rainham ,Rehman Chishti ,Leave ,22.40%,South East England ,36.50%,63.50%
+Portsmouth North ,Penny Mordaunt ,Leave ,23.20%,South East England ,36.40%,63.60%
+Stourbridge ,Margot James ,Remain ,14.50%,West Midlands ,36.40%,63.60%
+Rochester and Strood ,Kelly Tolhurst ,Remain ,13.60%,South East England ,36.30%,63.70%
+Sherwood ,Mark Spencer ,Remain ,9.20%,East Midlands ,36.30%,63.70%
+Nottingham North ,Graham Allen ,Remain ,33.60%,East Midlands ,36.20%,63.80%
+Dartford ,Gareth Johnson ,Leave ,23.60%,South East England ,36.00%,64.00%
+Bognor Regis and Littlehampton ,Nick Gibb ,Remain ,29.60%,South East England ,35.80%,64.20%
+Staffordshire Moorlands ,Karen Bradley ,Remain ,23.90%,West Midlands ,35.50%,64.50%
+Burton ,Andrew Griffiths ,Remain ,22.80%,West Midlands ,35.40%,64.60%
+Chatham and Aylesford ,Tracey Crouch ,Unknown ,26.60%,South East England ,35.30%,64.70%
+Nuneaton ,Marcus Jones ,Remain ,10.70%,West Midlands ,35.30%,64.70%
+North Thanet ,Roger Gale ,Remain ,23.30%,South East England ,35.10%,64.90%
+Bexleyheath and Crayford ,David Evennett ,Remain ,21.30%,Greater London ,35.00%,65.00%
+Makerfield ,Yvonne Fovargue ,Remain ,29.40%,North West England ,35.00%,65.00%
+Middlesbrough South and East Cleveland ,Tom Blenkinsop ,Remain ,5.00%,North East England ,35.00%,65.00%
+Stoke-on-Trent Central ,Tristram Hunt ,Remain ,12.40%,West Midlands ,35.00%,65.00%
+South Staffordshire ,Gavin Williamson ,Remain ,41.10%,West Midlands ,34.80%,65.20%
+Amber Valley ,Nigel Mills ,Leave ,9.20%,East Midlands ,34.70%,65.30%
+Gravesham ,Adam Holloway ,Leave ,16.70%,South East England ,34.60%,65.40%
+Hyndburn ,Graham Jones ,Remain ,10.30%,North West England ,34.30%,65.70%
+Sittingbourne and Sheppey ,Gordon Henderson ,Leave ,24.60%,South East England ,34.30%,65.70%
+Broxbourne ,Charles Walker ,Leave ,36.30%,East of England ,34.20%,65.80%
+Middlesbrough ,Andy McDonald ,Remain ,38.10%,North East England ,34.00%,66.00%
+Tamworth ,Christopher Pincher ,Leave ,24.00%,West Midlands ,34.00%,66.00%
+North West Norfolk ,Henry Bellingham ,Leave ,29.40%,East of England ,33.90%,66.10%
+Brigg and Goole ,Andrew Percy ,Leave ,25.80%,Yorkshire and the Humber ,33.80%,66.20%
+South West Norfolk ,Elizabeth Truss ,Remain ,27.70%,East of England ,33.80%,66.20%
+Doncaster Central ,Rosie Winterton ,Remain ,25.00%,Yorkshire and the Humber ,33.70%,66.30%
+Halesowen and Rowley Regis ,James Morris ,Remain ,7.00%,West Midlands ,33.70%,66.30%
+Plymouth Moor View ,Johnny Mercer ,Remain ,2.40%,South West England ,33.60%,66.40%
+Sheffield South East ,Clive Betts ,Remain ,29.50%,Yorkshire and the Humber ,33.60%,66.40%
+Easington ,Grahame Morris ,Remain ,42.30%,North East England ,33.50%,66.50%
+Stockton North ,Alex Cunningham ,Remain ,21.10%,North East England ,33.50%,66.50%
+Burnley ,Julie Cooper ,Remain ,8.20%,North West England ,33.40%,66.60%
+Rother Valley ,Kevin Barron ,Remain ,15.50%,Yorkshire and the Humber ,33.30%,66.70%
+Blackpool North and Cleveleys ,Paul Maynard ,Leave ,8.50%,North West England ,33.20%,66.80%
+Basildon and Billericay ,John Baron ,Leave ,29.00%,East of England ,33.10%,66.90%
+Telford ,Lucy Allan ,Leave ,1.80%,West Midlands ,33.00%,67.00%
+Redcar ,Anna Turley ,Remain ,25.40%,North East England ,32.50%,67.50%
+West Bromwich East ,Tom Watson ,Remain ,25.30%,West Midlands ,32.50%,67.50%
+North Warwickshire ,Craig Tracey ,Leave ,6.30%,West Midlands ,32.30%,67.70%
+Wolverhampton North East ,Emma Reynolds ,Remain ,16.20%,West Midlands ,32.30%,67.70%
+Aldridge-Brownhills ,Wendy Morton ,Remain ,29.70%,West Midlands ,32.20%,67.80%
+Blackpool South ,Gordon Marsden ,Remain ,8.00%,North West England ,32.20%,67.80%
+Kingston upon Hull West and Hessle ,Alan Johnson ,Remain ,29.30%,Yorkshire and the Humber ,32.20%,67.80%
+Rayleigh and Wickford ,Mark Francois ,Leave ,32.40%,East of England ,32.20%,67.80%
+Harlow ,Robert Halfon ,Remain ,18.90%,East of England ,32.00%,68.00%
+Hemsworth ,Jon Trickett ,Remain ,28.50%,Yorkshire and the Humber ,31.90%,68.10%
+Wolverhampton South East ,Pat McFadden ,Remain ,31.00%,West Midlands ,31.80%,68.20%
+Barnsley Central ,Dan Jarvis ,Remain ,34.00%,Yorkshire and the Humber ,31.70%,68.30%
+Bassetlaw ,John Mann ,Leave ,17.90%,East Midlands ,31.70%,68.30%
+Rotherham ,Sarah Champion ,Remain ,22.30%,Yorkshire and the Humber ,31.70%,68.30%
+Cleethorpes ,Martin Vickers ,Leave ,17.50%,Yorkshire and the Humber ,31.60%,68.40%
+Don Valley ,Caroline Flint ,Remain ,20.90%,Yorkshire and the Humber ,31.50%,68.50%
+Cannock Chase ,Amanda Milling ,Remain ,10.50%,West Midlands ,31.10%,68.90%
+Wentworth and Dearne ,John Healey ,Remain ,32.00%,Yorkshire and the Humber ,31.10%,68.90%
+Scunthorpe ,Nic Dakin ,Remain ,8.50%,Yorkshire and the Humber ,31.00%,69.00%
+West Bromwich West ,Adrian Bailey ,Remain ,22.10%,West Midlands ,30.90%,69.10%
+Romford ,Andrew Rosindell ,Leave ,28.20%,Greater London ,30.80%,69.20%
+"Normanton, Pontefract and Castleford ",Yvette Cooper ,Remain ,33.60%,Yorkshire and the Humber ,30.70%,69.30%
+Hornchurch and Upminster ,Angela Watkinson ,Remain ,23.70%,Greater London ,30.60%,69.40%
+Louth and Horncastle ,Victoria Atkins ,Remain ,29.80%,East Midlands ,30.60%,69.40%
+North East Cambridgeshire ,Stephen Barclay ,Leave ,32.60%,East of England ,30.60%,69.40%
+Hartlepool ,Iain Wright ,Remain ,7.70%,North East England ,30.40%,69.60%
+Dagenham and Rainham ,Jon Cruddas ,Remain ,11.60%,Greater London ,30.10%,69.90%
+Clacton ,Douglas Carswell ,Leave ,7.80%,East of England ,30.00%,70.00%
+Bolsover ,Dennis Skinner ,Leave ,26.80%,East Midlands ,29.80%,70.20%
+Thurrock ,Jackie Doyle-Price ,Remain ,1.10%,East of England ,29.80%,70.20%
+Dudley South ,Mike Wood ,Leave ,11.20%,West Midlands ,29.60%,70.40%
+Ashfield ,Gloria De Piero ,Remain ,18.60%,East Midlands ,29.50%,70.50%
+Barnsley East ,Michael Dugher ,Remain ,31.20%,Yorkshire and the Humber ,29.30%,70.70%
+Stoke-on-Trent South ,Robert Flello ,Remain ,6.50%,West Midlands ,29.20%,70.80%
+Mansfield ,Alan Meale ,Remain ,11.30%,East Midlands ,29.10%,70.90%
+South Holland and the Deepings ,John Hayes ,Leave ,37.70%,East Midlands ,28.90%,71.10%
+Dudley North ,Ian Austin ,Remain ,11.00%,West Midlands ,28.60%,71.40%
+Great Grimsby ,Melanie Onn ,Remain ,13.50%,Yorkshire and the Humber ,28.60%,71.40%
+Great Yarmouth ,Brandon Lewis ,Remain ,13.80%,East of England ,28.50%,71.50%
+Doncaster North ,Ed Miliband ,Remain ,29.80%,Yorkshire and the Humber ,28.00%,72.00%
+Stoke-on-Trent North ,Ruth Smeeth ,Remain ,12.50%,West Midlands ,27.90%,72.10%
+Kingston upon Hull East ,Karl Turner ,Remain ,29.40%,Yorkshire and the Humber ,27.40%,72.60%
+Castle Point ,Rebecca Harris ,Leave ,19.70%,East of England ,27.30%,72.70%
+South Basildon and East Thurrock ,Stephen Metcalfe ,Leave ,16.90%,East of England ,27.00%,73.00%
+Walsall North ,David Winnick ,Remain ,5.20%,West Midlands ,25.80%,74.20%
+Boston and Skegness ,Matt Warman ,Remain ,10.00%,East Midlands ,25.10%,74.90%

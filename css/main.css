@@ -1,0 +1,57 @@
+svg {
+  border: 2px solid black;
+  overflow: hidden;
+  width: 1080;
+  height: 720;
+}
+
+.title {
+  font-size: 30px;
+  font-family: "Helvetica";
+}
+
+path {
+  fill: white;
+  stroke: black;
+  stroke-width: 0.2;
+}
+
+circle {
+  fill-opacity: 1;
+  stroke: black;
+  stroke-opacity: 0;
+  stroke-width: 0.5;
+  cursor: pointer;
+}
+
+div.tooltip {
+  position: absolute;
+  text-align: center;
+  padding: 2px;
+  font: 12px sans-serif;
+  background: lightsteelblue;
+  border: 0px;
+  border-radius: 8px;
+  pointer-events: none;
+}
+
+.Scotland, .Wales {
+  fill: gray;
+  opacity: 0.1;
+  stroke-width: 0;
+}
+
+.legendTitle {
+  text-anchor: middle;
+  font-size: 0.9rem;
+  fill: #4F4F4F;
+  font-weight: 300;
+  font-family: "Helvetica";
+}
+
+.axis path,
+.axis tick,
+.axis line {
+  fill: none;
+  stroke: none;
+}

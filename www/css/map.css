@@ -1,0 +1,67 @@
+svg {
+  overflow: hidden;
+  width: 1080;
+  height: 720;
+}
+
+.title {
+  font-size: 30px;
+  font-family: "Helvetica";
+}
+
+path {
+  fill: white;
+  stroke: black;
+  stroke-width: 0.2;
+}
+
+circle {
+  fill-opacity: 1;
+  stroke: black;
+  stroke-width: 0;
+  cursor: pointer;
+}
+
+.Scotland, .Wales {
+  fill: gray;
+  opacity: 0.1;
+  stroke-width: 0;
+}
+
+.legend {
+  -webkit-filter: drop-shadow( 0px 3px 5px rgba(0,0,0,0.2) );
+  filter: drop-shadow( 0px 3px 5px rgba(0,0,0,0.2) );
+  fill: #FFF;
+  opacity: 0.6;
+}
+
+.legendTitle {
+  text-anchor: middle;
+  font-size: 0.9rem;
+  fill: #4F4F4F;
+  font-weight: 600;
+  font-family: "Nunito";
+}
+
+.det_bg {
+  fill: #FFF;
+  -webkit-filter: drop-shadow( 0px 3px 5px rgba(0,0,0,0.2) );
+  filter: drop-shadow( 0px 3px 5px rgba(0,0,0,0.2) );
+}
+
+text {
+  font-family: "Nunito";
+}
+
+.axis path,
+.axis tick,
+.axis line {
+  fill: none;
+  stroke: none;
+}
+
+.zoom_controls {
+  cursor: pointer;
+  -webkit-filter: drop-shadow( 0px 3px 5px rgba(0,0,0,0.2) );
+  filter: drop-shadow( 0px 3px 5px rgba(0,0,0,0.2) );
+}

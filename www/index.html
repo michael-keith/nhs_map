@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Doctors without borders: EU nationals working in the NHS and the risk of Brexit.</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Varela+Round" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet">
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/c3/0.3.0/c3.min.css" rel="stylesheet">
+
+  <link href="css/main.css" rel="stylesheet">
+
+  <!-- Styles for maps -->
+  <link href="css/map.css" rel="stylesheet">
+  <link href="css/lines.css" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/grayscale.css" rel="stylesheet">
+
+</head>
+
+<body id="page-top">
+
+  <!-- Header -->
+  <header class="masthead">
+    <div class="container align-items-center">
+      <div class="mx-auto text-center">
+        <h1 class="mx-auto my-0 text-uppercase">Doctors without borders:</h1>
+        <h2 class="mx-auto">Regional divisions of EU nationals working in the NHS and the risk of Brexit.</h2>
+        <h2 class="mx-auto">by Michael Keith</h2>
+        <!-- <a href="#first_section" class="btn btn-primary js-scroll-trigger">
+        <span class="fa-stack fa-lg">
+        <i class="far fa-circle fa-stack-2x"></i>
+        <i class="fa fa-chevron-down fa-stack-2x"></i>
+      </span>
+    </a> -->
+  </div>
+</div>
+</header>
+
+<!-- About Section -->
+<section id="first_section" class="mt-6">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-12 mx-auto">
+        <p class="mb-4">Some of the most exaggerated claims made during the 2016 EU referendum involved the NHS. From promising an additional 350 million pounds a week in extra funding to the persistent warnings that the NHS would collapse outside of the EU, many of these claims proved inaccurate. Yet in the 2 years since the referendum it is clear that Brexit has had an effect on the NHS and the doctors, nurses and other staff members employed by health services across England. While the vote divided the country along political lines, the aftermath of the decision has also revealed large regional divisions in how the NHS is staffed, with some services heavily dependent on EU nationals for their day to day functioning.
+        </p>
+        <p class="mt-4 mb-4">At some NHS trusts, as many as 20% of all staff members are EU nationals. Further, since 2016 the number of new EU nationals joining the NHS has been falling in certain key areas, adding to existing staff shortages. These services are now face significant staff shortages and recruitment problems due to the uncertainty around Brexit and the status of EU nationals once the UK leaves the EU.
+        </p>
+        <div class="article_hilight l_float" style="border-color: #f9d057">
+          <p><b>10.9%</b> of all staff at <b>London</b> based NHS trusts are EU nationals.</p>
+        </div>
+        <p class="mt-4 mb-4">According to government data, approximately 5.5% of all NHS staff are from countries in the European Union. Yet this figure varies greatly throughout England and hides specific regional dependencies. Focusing on NHS trusts, rather than Clinical Commissioning Groups (CCGs) or other administrative divisions, and on raw head-counts of staff, rather than full-time equivalents, there is a distinct geographic division in the distribution of EU nationals working in the NHS. For example, NHS services in the South of England, particularly in and around London are significantly more dependent than areas in the North of the country. One third of all EU nationals working in the NHS are working in London. This means that approximately 10.9% of all staff at London based trusts are EU nationals as opposed to 2.5% in Yorkshire and Humber and 1.9% in the North East. 8 out of the 10 trusts with the highest percentage of EU national employees are based in London, whereas most of those with the lowest percentage are in the North East of England or in Yorkshire and Humber.
+        </p>
+        <div class="article_hilight r_float" style="border-color: #2c7bb6">
+          <p><b>1.9%</b> of all staff at NHS in the <b>North East</b> of England are EU nationals.</p>
+        </div>
+        <p>
+          The interactive map below shows all hospitals and clinics in England which belong to NHS trusts as circles. Each circle is colour coded to represent the proportion of NHS staff. Clicking on a cirlce will show the statistics for the trust it belongs to. The map can be changed to show proportions of specific staff groups, including frontline staff, which includes doctors, nurses and midwives, or each group individually.
+        </p>
+        <p>The map clearly shows the north/south divide of EU nationals working in the NHS, with a distinct difference visible between trusts in the south of England, particularly in London and the surrounding areas, and the north of the country.</p>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="container-fluid">
+
+    <div id="map_table">
+
+      <div class="row">
+        <div class="col-md-12">
+          <h3 class="map_title">Breakdown of EU nationals working in the NHS by trust and occupation:</h3>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-md-6">
+          <div class="row">
+            <div class="col-md-12">
+              <div id="map_select">
+
+                <div class="dropdown">
+                  <div id="map_select_button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                    <h3 class="map_select_title"><i class="map_select_icon fas fa-chevron-down"></i><span id="map_select_title">Percentage of <b>all staff</b> who are EU nationals at NHS trusts:</span> </h3>
+                  </div>
+                  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <a class="dropdown-item" onclick="update('eu_staff_perc', 'Percentage of <b>all staff</b> who are EU nationals at NHS trusts:')">All staff</a>
+                    <a class="dropdown-item" onclick="update('frontline_perc', 'Percentage of <b>frontline staff</b> who are EU nationals at NHS trusts:')">Frontline staff</a>
+                    <a class="dropdown-item" onclick="update('doctors_perc', 'Percentage of <b>doctors</b> who are EU nationals at NHS trusts:')">Doctors</a>
+                    <a class="dropdown-item" onclick="update('nurses_perc', 'Percentage of <b>nurses</b> who are EU nationals at NHS trusts:')">Nurses</a>
+                    <a class="dropdown-item" onclick="update('midwives_perc', 'Percentage of <b>midwives</b> who are EU nationals at NHS trusts:')">Midwives</a>
+                  </div>
+                </div>
+
+              </div>
+            </div>
+            <div class="col-md-12">
+              <div id="nhs_map"></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="col-md-6">
+
+          <div id="map_details">
+            <h3 id="map_details_title" style="border-color: #00ccbc;">Totals for all NHS trusts in England:</h3>
+
+            <div class="row">
+
+              <div class="col-md-6">
+                <div class="perc_box" style="border-color: #00ccbc;">
+                  <div id="eu_staff_perc" class="headline_perc">5.4<span class="percent">%</span></div>
+                  <p id="eu_staff_total" class="subtitle">(61,997/1,146,191)</p>
+                  <p>of <b>all staff</b> at this trust are EU nationals.</p>
+                </div>
+              </div>
+
+              <div class="col-md-6">
+                <div class="perc_box" style="border-color: #90eb9d;">
+                  <div id="frontline_perc" class="headline_perc">7.2<span class="percent">%</span></div>
+                  <p id="frontline_total" class="subtitle">(33,040/461,379)</p>
+                  <p>of <b>frontline staff</b> at this trust are EU nationals.</p>
+                </div>
+              </div>
+
+            </div>
+
+            <div class="row">
+
+              <div class="col-md-4">
+                <div class="perc_box" style="border-color: #efef7c;">
+                  <div id="doctors_perc" class="headline_perc">9.2<span class="percent">%</span></div>
+                  <p id="doctors_total" class="subtitle">(10,769/116,540)</p>
+                  <p>of <b>doctors</b> at this trust are EU nationals.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="perc_box" style="border-color: #90eb9d;">
+                  <div id="nurses_perc" class="headline_perc">6.6<span class="percent">%</span></div>
+                  <p id="nurses_total" class="subtitle">(20,888/318,310)</p>
+                  <p>of <b>nurses</b> at this trust are EU nationals.</p>
+                </div>
+              </div>
+              <div class="col-md-4">
+                <div class="perc_box" style="border-color: #00ccbc;">
+                  <div id="midwives_perc" class="headline_perc">5.2<span class="percent">%</span></div>
+                  <p id="midwives_total" class="subtitle">(1,383/26,529)</p>
+                  <p>of <b>midwives</b> at this trust are EU nationals.</p>
+                </div>
+              </div>
+
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+
+    </div>
+
+  </div>
+</section>
+
+<section>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+
+        <p class="mt-4 mb-4">As a whole, London is considered to be more resilient to any potential consequences of Brexit than other parts of England. Yet there is the potential that with the threat of a no deal Brexit and health services in the area already dependent on overseas staff, NHS trusts in the capital may find themselves severely understaffed if the uncertainty around the UK leaving the EU continues. Mayor of London, Sadiq Khan, has raised this point on multiple occasions, stating <a href="https://www.london.gov.uk/moderngov/documents/s73503/Minutes%20-%20Appendix%201%20-%20Transcript%20-%20Mayor%20of%20London.pdf&page=2">“There is an issue about the retention of the staff that they have, but this year we also have a record number of vacancies in the NHS, particularly among nurses, so there is also the challenge of recruitment.”</a>
+        </p>
+
+        <p>The uncertainty surrounding exactly how the UK will leave the EU and what will happen after has raised further concerns around staffing and recruitment, with many trusts unable to take direct action due to a lack of information from the government. In a statement regarding their Brexit preparation plans, the Isle of Wight Trust, where 20% of the doctors are currently EU nationals, suggested that their current plans on retaining staff are limited due to uncertainty from the government.  “The impact of Brexit on the healthcare sector is far from clear at this stage and no directs steps other than providing reassurance have been needed so far” reads the statement, with the only current action being relatively limited, “we are arranging an information session for staff from the EU to show further support and to ensure that they have access to information to make individual decisions about their options.”</p>
+
+        <p>Other trusts have taken more immediate measures, with some <a href="https://www.standard.co.uk/news/health/revealed-hospitals-paying-thousands-for-new-visas-to-keep-eu-staff-after-brexit-a3977661.html">offering to cover the costs of staff members applying for settled status in order to prevent an “exodus of foreign health workers.”</a> Others, such as Oxford University Hospitals NHS Foundation Trust, have begun recruitment drives for nurses from countries outside the EU. A spokesperson for Oxford University Hospitals said, “Brexit does create some uncertainty, current guidance is that EU staff already working here will be able to continue to live and work in the country. We have held successful recruitment events in India and the Philippines over the last 12 months and we are welcoming nurses each month from these countries over the next two years.”</p>
+
+        <p>The problem with these and other solutions, is that due to the regional disparities, these are not national problems that can be solved centrally, but rather problems being faced on a local level by individual trusts, with staffing problems varying greatly from region to region. Comparing London to other large cities shows the extent of the disparities. At the Manchester University NHS Foundation Trust, for instance, the largest trust in England based on total staff numbers, 5% of staff are EU nationals, slightly below the national average, but almost double the regional average for the North West, which stands at 2.8%. At the Sheffield Teaching Hospitals NHS Foundation Trust, the third largest trust in England, only 2.2% of all staff and 1.8% of nurses are EU nationals, significantly below the national averages and even slightly below the regional average.</p>
+
+      </div>
+    </div>
+  </div>
+
+</section>
+
+
+<section>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+
+        <p class="mt-4">As for predicting the potential possibility and impact of EU staff leaving the NHS on mass, little has been done on a national level to assess the risks. Government figures indicate that there has been no significant changes to the overall number of EU nationals working in the NHS since the 2016 referendum. Yet this again ignores specific regional differences, especially for trusts that are more dependent on EU nationals. </p>
+
+        <p>In September of 2018, an <a href="https://improvement.nhs.uk/documents/3520/Performance_of_the_NHS_provider_sector_for_the_month_ended_30_Sept_18_FINAL.pdf#page=26">NHS report estimated that there were approximately 103,000 vacant posts at trusts in England</a>, down slightly from <a href="https://improvement.nhs.uk/documents/3209/Performance_of_the_NHS_provider_sector_for_the_month_ended_30_June_18_FINAL.pdf#page=26">108,000 at the start of 2018.</a> The report doesn't provide a regional breakdown, but it does suggest that "there is significant regional and sector vacancy variation, with the London region and the mental health sector having the highest numbers proportionately."</p>
+
+        <p>These findings are also supported by the British Medical Association, who have warned about a potential “workforce crisis” for the NHS, <a href="https://www.bma.org.uk/news/media-centre/press-releases/2018/september/nhs-vacancy-figures-confirm-doctors-warnings-of-workforce-crisis-says-bma">“Brexit is also likely to have a profoundly negative effect on the NHS workforce,” reads a BMA Press release from December 2018, “with almost half of EEA doctors telling the BMA they are considering leaving the UK, 40 per cent of whom have already made made plans to go.</a></p>
+
+        <p>In some areas this decline may have already begun. For specific trusts with existing high levels of EU national staff, the data suggests that the number of new EU nationals joining, since 2016, has slowed or decreased. For example, at Barts Health NHS Trust, the numbers of EU nationals working at the trust had been steadily increasing year on year since the trust foundation in 2013. However, after 2016 the pace began to slow down with the number of EU nationals working for the trust falling from 1,725 in 2017 to 1,706 in 2018. A small change overall, but a potentially dangerous trend for a trust which relies heavily on EU nationals to fill new vacancies.</p>
+
+        <div class="highlight_box" style="border-color: #f9d057">
+          <h3>Barts Health NHS Trust</h3>
+          <div class="row">
+            <div class="col-md-3">
+              <p>No. of EU staff:</p>
+              <div id="barts_total"></div>
+            </div>
+            <div class="col-md-3">
+              <p>No. of EU Doctors:</p>
+              <div id="barts_doctors"></div>
+            </div>
+            <div class="col-md-3">
+              <p>No. of EU Nurses:</p>
+              <div id="barts_nurses"></div>
+            </div>
+            <div class="col-md-3">
+              <p>No. of EU Midwives:</p>
+              <div id="barts_midwives"></div>
+            </div>
+          </div>
+        </div>
+
+        <p>Similar patterns can be seen in the workforce figures for other trusts. Data for Oxford University Hospitals NHS Foundation Trust also shows a similar levelling off of new EU nationals joining the trusts, as well as showing that the number of EU national nurses at the trust fell between 2017 and 2018 for the first time.</p>
+
+        <div class="highlight_box" style="border-color: #f29e2e">
+          <h3>Oxford University Hospitals NHS Foundation Trust</h3>
+          <div class="row">
+            <div class="col-md-3">
+              <p>All EU staff:</p>
+              <div id="ouh_total"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Doctors:</p>
+              <div id="ouh_doctors"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Nurses:</p>
+              <div id="ouh_nurses"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Midwives:</p>
+              <div id="ouh_midwives"></div>
+            </div>
+          </div>
+        </div>
+
+        <p>Even at trusts with low numbers of EU national staff similar patterns can be seen. In fact, proportionally, trusts with fewer EU staff have experienced larger percentage changes in the number of EU nationals they employ.</p>
+
+        <div class="highlight_box" style="border-color: #00ccbc">
+          <h3>Leeds Teaching Hospitals NHS Trust</h3>
+          <div class="row">
+            <div class="col-md-3">
+              <p>All EU staff:</p>
+              <div id="lth_total"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Doctors:</p>
+              <div id="lth_doctors"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Nurses:</p>
+              <div id="lth_nurses"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Midwives:</p>
+              <div id="lth_midwives"></div>
+            </div>
+          </div>
+        </div>
+
+        <p>Proportionally some trusts have lost a significant percentage of EU nurses in the last year. For exampe the Countess of Chester Hospital NHS Foundation Trust lost 50% of its EU national nurses between 2017 and 2018. In actual terms, as the numbers of EU staff working at the trust are relatively low, this meant that 26 EU nurses left the trust, but with increasing vacancies for nurses it may be difficult for trusts in similar positions to make up the shortfall.</p>
+
+        <div class="highlight_box" style="border-color: #00a6ca">
+          <h3>Countess of Chester Hospital NHS Foundation Trust</h3>
+          <div class="row">
+            <div class="col-md-3">
+              <p>All EU staff:</p>
+              <div id="coch_total"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Doctors:</p>
+              <div id="coch_doctors"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Nurses:</p>
+              <div id="coch_nurses"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Midwives:</p>
+              <div id="coch_midwives"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- <div class="highlight_box">
+          <h3>University Hospital Birmingham NHS Foundation Trust</h3>
+          <div class="row">
+            <div class="col-md-3">
+              <p>All EU staff:</p>
+              <div id="uhb_total"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Doctors:</p>
+              <div id="uhb_doctors"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Nurses:</p>
+              <div id="uhb_nurses"></div>
+            </div>
+            <div class="col-md-3">
+              <p>EU Midwives:</p>
+              <div id="uhb_midwives"></div>
+            </div>
+          </div>
+        </div> -->
+
+        <p>Yet the NHS also indicates that taken alone these figures may be potentially misleading, with structural changes at certain trusts or better reporting tools contributing to rises and falls in staff numbers. The NHS states: “some apparent increases in staff numbers for particular nationalities and nationality groups is likely to be due to improved data coverage rather than genuine increases.” Their ultimate conclusion on the data is: “While it is likely that there has been an overall increase in the number of EU NHS staff since 2016, we cannot be sure about the scale of the change.”</p>
+
+      </div>
+    </div>
+  </div>
+
+</section>
+
+<section style="margin-bottom: 30px;">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12" style="padding-bottom: 30px; border-bottom: 1px solid #d0d0d0;">
+        <p>Whatever happens the future of the NHS and those who work in the health services is dependant on whatever deal the UK signs with the EU in 2019. The government has taken some proactive measures to secure the future of the NHS, including its new <a href="https://www.longtermplan.nhs.uk/wp-content/uploads/2019/01/nhs-long-term-plan.pdf">Long Term Plan</a>, but this could be disrupted if staffing shortages become servere enough. Other groups, including the BMA, have publically supported holding a People's Vote on the final deal, stating that Brexit poses too high of a risk to the future of the NHS. Yet with such regional disparities it may be difficult to convince those in areas with low numbers of EU national staff that the risk is high enough.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="sources">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-12">
+        <h2>Sources:</h2>
+        <p><a href="https://drive.google.com/drive/u/0/folders/1Y5sobfbXZoFWcnwzmvNLBKeonrI_vEci">Original report and data from the Bureau for Investigative Journalism</a></p>
+        <p><a href="https://digital.nhs.uk/data-and-information/find-data-and-publications/supplementary-information/2018-supplementary-information-files/staff-ethnicity/eu-staff-by-staff-group-and-organisation-january-2010-to-2018">NHS data: EU staff by staff group and organisation, January 2010 to 2018</a></p>
+        <p><a href="https://digital.nhs.uk/data-and-information/publications/statistical/nhs-workforce-statistics/september-2018">NHS data: NHS Workforce Statistics - September 2018</a></p>
+        <p><a href="https://digital.nhs.uk/data-and-information/find-data-and-publications/supplementary-information/2018-supplementary-information-files/staff-ethnicity/eu-staff-by-staff-group-and-organisation-january-2010-to-2018">NHS data: EU staff by staff group and organisation, January 2010 to 2018</a></p>
+        <p><a href="https://www.london.gov.uk/moderngov/documents/s73503/Minutes - Appendix 1 - Transcript - Mayor of London.pdf">EU Exit Working Group minutes - Thursday, 25 October 2018</a></p>
+        <p><a href="https://www.standard.co.uk/news/health/revealed-hospitals-paying-thousands-for-new-visas-to-keep-eu-staff-after-brexit-a3977661.html">Evening standard article: "Hospitals paying thousands for new visas to keep EU staff after Brexit"</a></p>
+        <p><a href="https://improvement.nhs.uk/documents/3520/Performance_of_the_NHS_provider_sector_for_the_month_ended_30_Sept_18_FINAL.pdf#page=26">Performance of the NHS provider sector for the month ended 30 Sept 2018</a></p>
+        <p><a href="https://www.bma.org.uk/news/media-centre/press-releases/2018/september/nhs-vacancy-figures-confirm-doctors-warnings-of-workforce-crisis-says-bma">BMA press release: "NHS vacancy figures confirm doctors’ warnings of workforce crisis"</a></p>
+        <p><a href="https://www.longtermplan.nhs.uk/wp-content/uploads/2019/01/nhs-long-term-plan.pdf">The NHS Long Term Plan</a></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- Bootstrap core JavaScript -->
+<script src="vendor/jquery/jquery.min.js"></script>
+<script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+<!-- Plugin JavaScript -->
+<script src="vendor/jquery-easing/jquery.easing.min.js"></script>
+
+<!-- Custom scripts for this template -->
+<script src="js/grayscale.js"></script>
+
+<!-- D3 and map js -->
+<script src="//cdnjs.cloudflare.com/ajax/libs/d3/4.3.0/d3.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/c3/0.6.11/c3.min.js"></script>
+<script src="js/main.js"></script>
+<script src="js/map.js"></script>
+<script src="js/line.js"></script>
+
+</body>
+
+</html>

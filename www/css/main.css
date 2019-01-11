@@ -1,0 +1,138 @@
+
+#map_table {
+  background-color: #F8F8F8;
+  /* box-shadow: 0px 3px 5px rgba(0,0,0,0.1); */
+}
+
+.map_title {
+  border-left: 10px solid black;
+  padding: 10px 0 10px 10px;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+  background-color: #FFF;
+  margin: 0 0 10px 0;
+}
+
+#map_select {
+  border-left: 10px solid #ccc;
+  cursor: pointer;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+  background-color: #FFF;
+  margin: 0 0 0px 0;
+}
+#map_select:hover {
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.3);
+  background-color: #FFF;
+}
+
+#map_select_button {
+    text-align: left;
+    padding: 0;
+    margin: 0;
+}
+.map_select_title {
+  padding: 15px 10px 15px 20px;
+  margin: 0;
+}
+.map_select_icon {
+  padding: 0 10px 0 0;
+}
+
+#nhs_map {
+  border-left: 10px solid #ccc;
+}
+
+#map_details {
+  padding: 0 15px 0 0px;
+}
+
+#map_details_title {
+  border-left: 20px solid black;
+  padding: 15px 10px 15px 20px;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+  background-color: #FFF;
+}
+
+.highlight_box, .perc_box {
+  border-left: 20px solid black;
+  border-color: #f29e2e;
+  box-shadow: 0px 3px 7px rgba(0,0,0,0.2);
+  margin: 30px 0 30px 0;
+  background-color: #FFF;
+}
+.highlight_box {
+  padding: 10px 20px 25px 20px;
+}
+
+.perc_box {
+  text-align: center;
+  padding: 30px 5px 25px 5px;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.1);
+}
+
+.headline_perc {
+  font-size: 3.5em;
+  line-height: 50px;
+  padding: 0;
+  margin: 0;
+}
+
+.subtitle {
+  margin: 0 0 5px 0;
+  padding: 0;
+  color: #333;
+}
+
+.border-right {
+  border-right: 2px solid black;
+}
+
+.dropdown-menu {
+  width: 100%;
+  margin-top: -2px;
+  border-radius: 0px;
+  border: none;
+  box-shadow: 0px 3px 5px rgba(0,0,0,0.3);
+}
+
+.percent {
+  font-size: 0.7em;
+}
+
+.dropdown-item:active {
+  background-color: white;
+}
+.dropdown-item:hover {
+  background-color: #ececec;
+}
+
+.article_hilight {
+  width: 40%;
+  padding: 10px 10px 10px 25px;
+  margin: 10px 20px 10px 5px;
+  border-left: 20px solid black;
+  border-color: #f29e2e;
+  box-shadow: 0px 3px 7px rgba(0,0,0,0.2);
+}
+@media (max-width: 768px) {
+  .article_hilight {
+    width: 100%;
+    margin: 10px 20px 20px 5px;
+  }
+}
+
+.article_hilight p {
+  margin: 0;
+  padding: 0;
+  font-size: 1.75rem;
+}
+
+.l_float {
+  float: left;
+}
+.r_float {
+  float: right;
+}
+
+#first_section {
+  margin-top: 30px;
+}
